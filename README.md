@@ -26,3 +26,9 @@ meusite/
 |---artigos.html
 |---contato.html
 |---mídia.html
+
+css/
+|---style.css
+
+js/
+|---script.js
